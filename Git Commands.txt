@@ -13,3 +13,9 @@ git log -> to check logs of commit, which commit was made by whome and when
 
 create new file to check version control
 again repesat same steps
+
+messup the chapter 2 file
+now to check out the diffrence between the previously commited one and messedup file
+-> git diff file_name
+
+to rollbock to previous version -> git checkout file_name
