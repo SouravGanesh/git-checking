@@ -1,5 +1,15 @@
+$ git config --global user.email  "souravganesh.crp@gmail.com"
+$ git config --global user.name  "SouravGanesh"
+
 create directory - folder
 put all the things you want to write or create new files inside folder
 -> git init
 to see things which are not yet in staging area use -> git status
 to add it to staging area git add file_name
+git add . -> to add all files inside folder
+git commit -m "message" 
+git log -> to check logs of commit, which commit was made by whome and when
+
+
+create new file to check version control
+again repesat same steps
