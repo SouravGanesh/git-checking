@@ -48,3 +48,10 @@ git branch -> to view
 * says we the currently in which branch
 git checkout branch_name -> will shift to branch_name from main
 
+
+forking and pull request
+if sourav has a repo and suhas works in same team then suhas can fork the repo(he how has the same repo in her gthub with permisiion)
+now suhas can clone it to his local and make some changes and push it his remote.
+then he can send a pull request to sourav saying these things are done.
+if sourav wish to accept after review he can ore reject it.
+
