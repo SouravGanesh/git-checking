@@ -1,0 +1,5 @@
+create directory - folder
+put all the things you want to write or create new files inside folder
+-> git init
+to see things which are not yet in staging area use -> git status
+to add it to staging area git add file_name
