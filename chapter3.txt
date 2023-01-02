@@ -1,1 +1,3 @@
 learning about gitignore
+
+change from branch 1 

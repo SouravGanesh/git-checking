@@ -1,3 +1,5 @@
 Chapter 2 for git commit
 
 checking version control
+
+change from branch 1 

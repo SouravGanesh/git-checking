@@ -33,3 +33,18 @@ create .gitignore file
 add the names of the files you dont want to commit
 then continue with the normal steps
 
+
+if we want to download any scelition from github then we use cloning
+git clone url
+
+
+Branching and Mearging
+if we want to play around creating extra features and dont want to disturb main goal then we create Branh 
+and we work paralelly and if its working good then we can commit to main in feature in and time.
+we prefer to submit to main only the once which are tested and ready to deploy.
+
+git branch branch_name -> to create new branch
+git branch -> to view
+* says we the currently in which branch
+git checkout branch_name -> will shift to branch_name from main
+
