@@ -48,3 +48,12 @@ git branch -> to view
 * says we the currently in which branch
 git checkout branch_name -> will shift to branch_name from main
 
+make some chamges to files in main and add and commit
+
+then come back to master and check. you can notice the changes you have made from branch doesnot reflect in master
+if you shift to branch you can see changes
+ if you are happy with branch changes then mearg to to main
+
+ git merge branch_name
+ git push -u origin master
+ 
