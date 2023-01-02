@@ -19,3 +19,17 @@ now to check out the diffrence between the previously commited one and messedup 
 -> git diff file_name
 
 to rollbock to previous version -> git checkout file_name
+
+
+to push local(.git) to remote repo(GitHub)
+create new repo and copy the link
+git remote add origin url-link-of-repo
+git push -u origin master (-u links the local origin to remote master)
+
+
+gitignore:
+if we want not to push sertain files to remote publically. like settings or api keys or passwords
+create .gitignore file
+add the names of the files you dont want to commit
+then continue with the normal steps
+
