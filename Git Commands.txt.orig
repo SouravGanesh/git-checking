@@ -48,6 +48,7 @@ git branch -> to view
 * says we the currently in which branch
 git checkout branch_name -> will shift to branch_name from main
 
+<<<<<<< HEAD
 make some chamges to files in main and add and commit
 
 then come back to master and check. you can notice the changes you have made from branch doesnot reflect in master
@@ -57,6 +58,7 @@ if you shift to branch you can see changes
  git merge branch_name
  git push -u origin master
  
+=======
 
 forking and pull request
 if sourav has a repo and suhas works in same team then suhas can fork the repo(he how has the same repo in her gthub with permisiion)
@@ -64,3 +66,4 @@ now suhas can clone it to his local and make some changes and push it his remote
 then he can send a pull request to sourav saying these things are done.
 if sourav wish to accept after review he can ore reject it.
 
+>>>>>>> branch1
