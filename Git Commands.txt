@@ -52,10 +52,10 @@ make some chamges to files in main and add and commit
 
 then come back to master and check. you can notice the changes you have made from branch doesnot reflect in master
 if you shift to branch you can see changes
- if you are happy with branch changes then mearg to to main
+if you are happy with branch changes then mearg to to main
 
- git merge branch_name
- git push -u origin master
+git merge branch_name
+git push -u origin master
  
 
 forking and pull request
@@ -63,4 +63,3 @@ if sourav has a repo and suhas works in same team then suhas can fork the repo(h
 now suhas can clone it to his local and make some changes and push it his remote.
 then he can send a pull request to sourav saying these things are done.
 if sourav wish to accept after review he can ore reject it.
-
